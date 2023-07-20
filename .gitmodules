@@ -1,0 +1,3 @@
+[submodule "Testing-Notion-API"]
+	path = Testing-Notion-API
+	url = https://github.com/varadars/Testing-Notion-API
